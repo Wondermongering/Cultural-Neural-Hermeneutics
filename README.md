@@ -14,8 +14,6 @@ Cultural Neural Hermeneutics
 
 Unveiling the Philosophical Underpinnings of Artificial Intelligence
 
-Show Image
-Show Image
 📜 Elevator Pitch
 We're training AI models on diverse philosophical traditions (Western, Eastern, and digital) and visualizing their learning processes to uncover hidden cultural biases embedded in AI systems. Think of it as computational archaeology for the future of thought—using code instead of shovels to excavate the foundational assumptions shaping artificial minds.
 🔍 Project Overview

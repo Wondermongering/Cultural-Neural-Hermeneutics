@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+
+# macOS / VSCode
+.DS_Store
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Python egg metadata
+*.egg-info/
+
+# Datasets
+datasets/
